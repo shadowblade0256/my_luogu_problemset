@@ -1,4 +1,5 @@
 //Ëã·¨¡¢º¯Êý¿â£¬²Î¿¼
+
 #include <cstdio>
 #include <cstdlib>
 using namespace std;
